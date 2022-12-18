@@ -26,7 +26,8 @@ Users should be able to:
 
 ![](./type-speed-game.png)
 
-### Video
+### Video[Screencast-typing-test.webm](https://user-images.githubusercontent.com/30356189/208293797-2526e398-f181-43e4-9597-e67089a96713.webm)
+
 
 ### Links
 
