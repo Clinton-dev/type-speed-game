@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-- Implementing React hooks namely: useState, useRef, useEffect
+- Implementing React hooks namely: useState, useRef, useEffect and custom Hooks
 
 ## Acknowledgments
 
